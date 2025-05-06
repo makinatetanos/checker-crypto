@@ -1,5 +1,3 @@
-¡Claro\! Vamos a darle un lavado de cara a este README para que luzca genial y esté optimizado para que lo encuentren fácilmente en GitHub.
-
 # 🔍 Monero Wallet Scanner: Encuentra tus Billeteras Perdidas de Monero de Forma Segura y Eficiente
 
 [](https://www.google.com/search?q=URL_DE_TU_CAPTURA_DE_PANTALLA)
