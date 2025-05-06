@@ -1,0 +1,4 @@
+# file: C:\Users\abel\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\chevron\tokenizer.py
+# hypothesis_version: 6.131.10
+
+['!', '#', '&', '/', '=', '>', '^', 'comment', 'end', 'inverted section', 'literal', 'no escape', 'no escape?', 'partial', 'section', 'set delimiter', 'set delimiter?', 'variable', '{', '{{', '}', '}}']

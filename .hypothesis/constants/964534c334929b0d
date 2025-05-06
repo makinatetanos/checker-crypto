@@ -1,0 +1,4 @@
+# file: C:\Users\abel\Documents\Programación\Checker Crypto\src\app.py
+# hypothesis_version: 6.131.10
+
+[0.0, 0.1, 0.99, 100.0, 100, 600, 800, 1000, 10000, 1000000, '0', '0.000000000000 XMR', 'Balance Total:', 'Cambiar Tema', 'Completado', 'Configuración', 'Detener Escaneo', 'Error', 'Escaneo finalizado', 'Estadísticas', 'Iniciar Escaneo', 'Intentos Totales:', 'Intervalo (ms):', 'Modo Test:', 'Máx. Hilos:', 'Máx. Intentos:', 'RPC Host:', 'RPC Port:', 'Resultados', 'Wallets Encontradas:']

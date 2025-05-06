@@ -1,0 +1,4 @@
+# file: C:\Users\abel\Documents\Programación\Checker Crypto\src\config.py
+# hypothesis_version: 6.131.10
+
+[100, 1000, '1000', '18081', '4', 'DATA_DIR', 'ENCRYPTION_KEY', 'LOG_DIR', 'MAX_ATTEMPTS', 'MAX_THREADS', 'MONERO_RPC_HOST', 'MONERO_RPC_PORT', 'MoneroConfig', 'SCAN_INTERVAL_MS', 'TEST_MODE', 'data', 'localhost', 'logs', 'true']

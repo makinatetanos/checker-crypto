@@ -1,0 +1,4 @@
+# file: C:\Users\abel\Documents\Programación\Checker Crypto\src\wallet.py
+# hypothesis_version: 6.131.10
+
+[1000000000000.0, 200, '1', '2.0', '4', 'ENCRYPTION_KEY', 'MoneroWallet', 'address', 'balance', 'data', 'get_balance', 'id', 'is_lost', 'jsonrpc', 'last_checked', 'method', 'params', 'private_key', 'r', 'result', 'w', 'wallets.json']

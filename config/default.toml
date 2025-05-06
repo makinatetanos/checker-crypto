@@ -1,0 +1,16 @@
+# Configuración por defecto para el Verificador de Monero
+
+# Configuración RPC
+rpc_host = "localhost"
+rpc_port = "18081"
+rpc_user = ""
+rpc_password = ""
+
+# Modo de operación
+test_mode = true
+max_threads = 4
+scan_interval_ms = 100
+max_attempts = 1000
+
+# Seguridad
+encryption_key = "" 

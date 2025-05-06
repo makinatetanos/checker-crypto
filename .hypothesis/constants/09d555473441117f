@@ -1,0 +1,4 @@
+# file: C:\Users\abel\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pytest_mypy_plugins\collect.py
+# hypothesis_version: 6.131.10
+
+[',', '--mypy-ini-file', '--mypy-same-process', '--mypy-testing-base', '.yaml', '.yml', '7.0.0rc1', '=', 'False', 'YamlTestItem', '__', '__line__', 'case', 'content', 'disable_cache', 'env', 'expect_fail', 'files', 'fspath', 'main', 'main.py', 'mypy-tests', 'mypy_config', 'os', 'out', 'parametrized', 'path', 'platform', 'pytest', 'regex', 'skip', 'store_true', 'sys', 'test-', 'test_', 'utf8']

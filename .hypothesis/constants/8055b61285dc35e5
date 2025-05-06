@@ -1,0 +1,4 @@
+# file: C:\Users\abel\Documents\Programación\Checker Crypto\src\verificador_monero\wallet\__init__.py
+# hypothesis_version: 6.131.10
+
+['WalletBase', 'WalletError']

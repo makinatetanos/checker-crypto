@@ -1,0 +1,4 @@
+# file: C:\Users\abel\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\regex\regex.py
+# hypothesis_version: 6.131.10
+
+[500, '()[]{}?*+|^$\\.-#&~', '2.5.148', 'A', 'ASCII', 'B', 'BESTMATCH', 'D', 'DEBUG', 'DEFAULT_VERSION', 'DOTALL', 'E', 'ENHANCEMATCH', 'F', 'FULLCASE', 'I', 'IGNORECASE', 'L', 'LOCALE', 'M', 'MULTILINE', 'Match', 'P', 'POSIX', 'Pattern', 'R', 'REVERSE', 'Regex', 'RegexFlag', 'S', 'Scanner', 'T', 'TEMPLATE', 'U', 'UNICODE', 'V0', 'V1', 'VERBOSE', 'VERSION0', 'VERSION1', 'W', 'WORD', 'X', '\\', '__doc__', '__version__', 'cache_all', 'compile', 'error', 'escape', 'findall', 'finditer', 'fullmatch', 'latin-1', 'match', 'purge', 'search', 'split', 'splititer', 'sub', 'subf', 'subfn', 'subn', 'template']

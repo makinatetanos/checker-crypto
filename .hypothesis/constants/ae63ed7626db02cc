@@ -1,0 +1,4 @@
+# file: C:\Users\abel\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pytest_mypy_plugins\utils.py
+# hypothesis_version: 6.131.10
+
+[100, '  (empty)', '  ...', '  A: {}{}\n', '  E: {}{}\n', '  {:<45} (diff)', ' # ', ' +$', ' {}', ' {}...', '.', '...', '.py', ':', 'E', 'Invalid output', 'N', 'None', 'W', '\\r$', '^', 'col', 'error', 'fname', 'lnum', 'message', 'note', 'regex', 'severity', 'warning']

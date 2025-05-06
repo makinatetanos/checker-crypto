@@ -1,0 +1,4 @@
+# file: C:\Users\abel\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pytestqt\logging.py
+# hypothesis_version: 6.131.10
+
+[' (IGNORED)', '-', 'CRITICAL', 'Captured Qt messages', 'DEBUG', 'FATAL', 'INFO', 'NO', 'QtCriticalMsg', 'QtDebugMsg', 'QtFatalMsg', 'QtInfoMsg', 'QtWarningMsg', 'WARNING', '_Context', '_log_type_name_map', '_type_name_map', 'addsection', 'call', 'extend', 'failed', 'longrepr', 'no_qt_log', 'qt.modeltest', 'qt_log_capture', 'qt_log_format', 'qt_log_ignore', 'qt_log_level_fail', 'replace', 'utf-8']

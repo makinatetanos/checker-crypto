@@ -1,0 +1,4 @@
+# file: C:\Users\abel\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\yaml\resolver.py
+# hypothesis_version: 6.131.10
+
+['!&*', '-+0123456789', '-+0123456789.', '0123456789', '<', '=', 'BaseResolver', 'N', 'Resolver', '^(?:!|&|\\*)$', '^(?:<<)$', '^(?:=)$', 'n', 'yYnNtTfFoO', 'yaml_path_resolvers', '~']

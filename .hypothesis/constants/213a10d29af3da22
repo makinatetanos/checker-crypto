@@ -1,0 +1,4 @@
+# file: C:\Users\abel\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\coverage\debug.py
+# hypothesis_version: 6.131.10
+
+[65535, ' @ ', '$coverage.object_id', '%*s %s', '%*s:', '%*s: %r', '%*s: %s', '(', ')', '*', ', ', '--{:-<60s}', '-none-', '.', '; ', '<string>', 'API', 'COV', 'COVERAGE_DEBUG_FILE', 'HOME', 'KEY', 'PASS', 'PY', 'PYTEST_CURRENT_TEST', 'SECRET', 'SIGNATURE', 'TEMP', 'TMP', 'TOKEN', '\\bigor.py$', '\\bsite-packages\\b', '\\w', '_', '__dict__', '__init__', 'a', 'argv', 'callers', 'cov:', 'pid', 'process', 'pytest', 'self', 'show_repr_attr', 'stderr', 'stdout', 'syspath:', 'tmp:', 'utf-8', '{}={!r}', '|']

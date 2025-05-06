@@ -1,0 +1,4 @@
+# file: C:\Users\abel\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\yaml\reader.py
+# hypothesis_version: 6.131.10
+
+[4096, '\x00', '<byte string>', '<file>', '<unicode string>', 'Reader', 'ReaderError', '[^\t\n\r -~\x85\xa0-\ud7ff\ue000-�𐀀-\U0010ffff]', 'name', 'strict', 'unicode', 'utf-16-be', 'utf-16-le', 'utf-8', '\ufeff']

@@ -1,0 +1,4 @@
+# file: C:\Users\abel\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pytestqt\plugin.py
+# hypothesis_version: 6.131.10
+
+[' -- ', '--no-qt-log', '--qt-log-format', 'CALL', 'Qt compiled %s', 'Qt runtime %s', 'SETUP', 'TEARDOWN', '_qt_logging', 'capture', 'linelist', 'markers', 'no', 'pytest-qt-qapp', 'qt', 'qt testing', 'qt_api', 'qt_default_raising', 'qt_log', 'qt_log_capture', 'qt_log_format', 'qt_log_ignore', 'qt_log_level_fail', 'qt_qapp_name', 'session', 'store_false']

@@ -1,0 +1,134 @@
+Metadata-Version: 2.4
+Name: verificador-monero
+Version: 0.1.0
+Summary: Verificador de wallets Monero perdidas
+Home-page: https://github.com/tu-usuario/verificador-monero
+Author: Tu Nombre
+Author-email: Tu Nombre <tu@email.com>
+License: MIT
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-python
+
+# Verificador de Wallets Monero
+
+Este proyecto proporciona una interfaz gráfica para verificar wallets de Monero que podrían estar perdidas o abandonadas.
+
+## Requisitos
+
+- Python 3.8 o superior
+- Nodo Monero RPC (opcional, para modo no-test)
+
+## Instalación
+
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/tu-usuario/verificador-monero.git
+cd verificador-monero
+```
+
+2. Crear un entorno virtual:
+```bash
+python -m venv .venv
+source .venv/bin/activate  # En Windows: .venv\Scripts\activate
+```
+
+3. Instalar el paquete:
+```bash
+# Instalación básica
+pip install -e .
+
+# Instalación con dependencias de desarrollo
+pip install -e .[dev]
+```
+
+4. Configurar variables de entorno:
+```bash
+cp .env.example .env
+# Editar .env con tus configuraciones
+```
+
+## Uso
+
+### Modo Normal
+
+1. Asegúrate de tener un nodo Monero RPC funcionando
+2. Configura las variables de entorno en `.env`
+3. Ejecuta el programa:
+```bash
+verificador-monero
+```
+
+### Modo Test
+
+1. Establece `TEST_MODE=true` en el archivo `.env`
+2. Ejecuta el programa:
+```bash
+verificador-monero
+```
+
+## Desarrollo
+
+### Ejecutar Tests
+
+```bash
+# Ejecutar todos los tests
+python run_tests.py
+
+# Ejecutar tests específicos
+pytest tests/test_monero_handler.py
+pytest tests/test_main.py
+
+# Ejecutar tests con marcadores específicos
+pytest -m gui
+pytest -m slow
+pytest -m integration
+```
+
+### Estructura del Proyecto
+
+```
+verificador-monero/
+├── src/
+│   └── verificador_monero/
+│       ├── __init__.py
+│       ├── main.py
+│       └── monero_handler.py
+├── tests/
+│   ├── __init__.py
+│   ├── conftest.py
+│   ├── test_main.py
+│   └── test_monero_handler.py
+├── .env.example
+├── README.md
+├── requirements.txt
+├── requirements-dev.txt
+├── run_tests.py
+└── setup.py
+```
+
+## Contribuir
+
+1. Fork el repositorio
+2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
+3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
+4. Push a la rama (`git push origin feature/AmazingFeature`)
+5. Abre un Pull Request
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+
+## Seguridad
+
+- Las seeds y claves privadas nunca se almacenan en texto plano
+- Se utiliza encriptación para almacenar información sensible
+- Las conexiones RPC deben estar protegidas con autenticación
+
+## Soporte
+
+Si encuentras algún problema o tienes alguna sugerencia, por favor abre un issue en el repositorio. 

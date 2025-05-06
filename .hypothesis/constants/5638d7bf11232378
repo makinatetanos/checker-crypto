@@ -1,0 +1,4 @@
+# file: C:\Users\abel\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\_pytest\compat.py
+# hypothesis_version: 6.131.10
+
+[100, 127, 128, '%s:%d', 'DEFAULT', '\\n', '\\r', '\\t', '_S', '_T', '__func__', '__get__', '__pytest_wrapped__', '__wrapped__', '_is_coroutine', 'ascii', 'backslashreplace', 'emscripten', 'mock', 'patchings', 'unicode_escape', 'unittest.mock', 'win32']

@@ -1,0 +1,4 @@
+# file: C:\Users\abel\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\_pytest\fixtures.py
+# hypothesis_version: 6.131.10
+
+['%s:%d', '%s:%d:  def %s%s', ', ', '.', ':\n\n', 'Deque[nodes.Item]', 'FixtureDef[Any]', 'FixtureDef[object]', 'FixtureFunction', 'FixtureManager', 'FixtureValue', 'Function', 'Metafunc', 'Session', 'SubRequest', '__self__', 'argnames', 'args', 'class', 'conftest.py', 'def', 'fspath', 'funcmanage', 'function', 'indirect', 'initialnames', 'module', 'name2fixturedefs', 'names_closure', 'nofuncargs', 'os.PathLike[str]', 'package', 'param', 'parametrize', 'pytestmark', 'request', 'session', 'usefixtures']

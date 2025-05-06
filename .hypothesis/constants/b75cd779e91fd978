@@ -1,0 +1,4 @@
+# file: C:\Users\abel\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pytest_asyncio\plugin.py
+# hypothesis_version: 6.131.10
+
+[', ', '--asyncio-mode', '127.0.0.1', 'MODE', 'Yield only once.', '_T', '__func__', '__pytest_asyncio', '_raw_test_func', 'asyncio', 'asyncio_mode', 'auto', 'callspec', 'class', 'event_loop', 'funcmanage', 'function', 'hypothesis', 'ignore', 'is_hypothesis_test', 'markers', 'module', 'obj', 'package', 'request', 'scope', 'session', 'strict']

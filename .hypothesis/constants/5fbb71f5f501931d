@@ -1,0 +1,4 @@
+# file: C:\Users\abel\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\chevron\main.py
+# hypothesis_version: 6.131.10
+
+['--data', '--ext', '--left-delimiter', '--path', '--right-delimiter', '--version', '--warn', '--yaml-loader', '-d', '-e', '-l', '-p', '-r', '-v', '-w', '-y', '.', 'SafeLoader', 'The json data file', 'The mustache file', '__main__', 'data', 'def_ldel', 'def_rdel', 'mustache', 'partials_ext', 'partials_path', 'r', 'store_true', 'template', 'utf-8', 'version', 'warn', 'yaml_loader', '{{', '}}']

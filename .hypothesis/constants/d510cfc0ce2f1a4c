@@ -1,0 +1,4 @@
+# file: C:\Users\abel\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\pytest_xvfb.py
+# hypothesis_version: 6.131.10
+
+['--no-xvfb', '--xvfb-backend', '16', '600', '800', 'DISPLAY', 'PATH', 'PYTEST_XDIST_WORKER', 'Skipped with Xvfb', 'Xephyr', 'Xvfb', 'Xvnc', 'args', 'bool', 'dist', 'linux', 'markers', 'no', 'no_xvfb', 'session', 'store', 'store_true', 'xephyr', 'xvfb', 'xvfb_args', 'xvfb_colordepth', 'xvfb_height', 'xvfb_width', 'xvfb_xauth', 'xvnc']
